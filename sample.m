@@ -1,0 +1,3 @@
+a=audioread('audio.wav')
+ 
+
